@@ -1,0 +1,43 @@
+#clock {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 80px;
+    font-weight: 500;
+    top: 50vh;
+}
+
+#quote {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    top: 50vh;
+}
+
+#clockcontainer {
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40vh;
+}
+
+#quotecontainer {
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 60vh;
+}
+
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
